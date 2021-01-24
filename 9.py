@@ -1,6 +1,3 @@
 x = -122
 
-if str(x)[::-1] == str(x):
-    print(True)
-else:
-    print(False)
+print(True if str(x)[::-1] == str(x) else False)
