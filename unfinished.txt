@@ -7,3 +7,4 @@
 20
 21: Still don't understand what a ListNode is
 38: Don't know how I would count it
+53: I always get Time limit exceeded, probably not efficient enough.
