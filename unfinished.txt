@@ -10,3 +10,4 @@
 53: I always get Time limit exceeded, probably not efficient enough.
 26: The error is not catching and I dont know why
 70: probably some math trick I havent seen in school
+83: I understand Listnodes now but I'm still confused how to use them
